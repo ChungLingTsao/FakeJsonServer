@@ -1,3 +1,10 @@
 {
-  "total_count": 734105
+  "rooms": [
+    {
+      "id": 2,
+      "name": "Herman",
+	  "type": "D",
+	  "bed": 5
+    }
+  ]
 }
