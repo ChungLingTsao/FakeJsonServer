@@ -5,6 +5,78 @@
       "name": "Herman",
 	  "type": "D",
 	  "bed": 5
-    }
+    },
+	{
+      "id": 3,
+      "name": "Scarlett",
+	  "type": "D",
+	  "bed": 2
+    },
+	{
+      "id": 4,
+      "name": "Jelani",
+	  "type": "S",
+	  "bed": 2
+    },
+	{
+      "id": 5,
+      "name": "Sonya",
+	  "type": "S",
+	  "bed": 5
+    },
+	{
+      "id": 6,
+      "name": "Miranda",
+	  "type": "S",
+	  "bed": 4
+    },
+	{
+      "id": 7,
+      "name": "Helen",
+	  "type": "S",
+	  "bed": 2
+    },
+	{
+      "id": 8,
+      "name": "Octavia",
+	  "type": "D",
+	  "bed": 3
+    },
+	{
+      "id": 9,
+      "name": "Gretchen",
+	  "type": "D",
+	  "bed": 3
+    },
+	{
+      "id": 10,
+      "name": "Bernard",
+	  "type": "S",
+	  "bed": 5
+    },
+	{
+      "id": 11,
+      "name": "Dacey",
+	  "type": "D",
+	  "bed": 2
+    },
+	{
+      "id": 12,
+      "name": "Preston",
+	  "type": "D",
+	  "bed": 2
+    },
+	{
+      "id": 10,
+      "name": "Dane",
+	  "type": "S",
+	  "bed": 4
+    },
+	{
+      "id": 14,
+      "name": "Cole",
+	  "type": "S",
+	  "bed": 1
+    },
   ]
 }
