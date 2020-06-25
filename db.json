@@ -1,82 +1,82 @@
 {
   "rooms": [
     {
-      "id": 2,
-      "name": "Herman",
-	  "type": "D",
-	  "bed": 5
+      "Room #": 2,
+      "Roomname": "Herman",
+	  "Room Type": "D",
+	  "Beds": 5
     },
 	{
-      "id": 3,
-      "name": "Scarlett",
-	  "type": "D",
-	  "bed": 2
+      "Room #": 3,
+      "Roomname": "Scarlett",
+	  "Room Type": "D",
+	  "Beds": 2
     },
 	{
-      "id": 4,
-      "name": "Jelani",
-	  "type": "S",
-	  "bed": 2
+      "Room #": 4,
+      "Roomname": "Jelani",
+	  "Room Type": "S",
+	  "Beds": 2
     },
 	{
-      "id": 5,
-      "name": "Sonya",
-	  "type": "S",
-	  "bed": 5
+      "Room #": 5,
+      "Roomname": "Sonya",
+	  "Room Type": "S",
+	  "Beds": 5
     },
 	{
-      "id": 6,
-      "name": "Miranda",
-	  "type": "S",
-	  "bed": 4
+      "Room #": 6,
+      "Roomname": "Miranda",
+	  "Room Type": "S",
+	  "Beds": 4
     },
 	{
-      "id": 7,
-      "name": "Helen",
-	  "type": "S",
-	  "bed": 2
+      "Room #": 7,
+      "Roomname": "Helen",
+	  "Room Type": "S",
+	  "Beds": 2
     },
 	{
-      "id": 8,
-      "name": "Octavia",
-	  "type": "D",
-	  "bed": 3
+      "Room #": 8,
+      "Roomname": "Octavia",
+	  "Room Type": "D",
+	  "Beds": 3
     },
 	{
-      "id": 9,
-      "name": "Gretchen",
-	  "type": "D",
-	  "bed": 3
+      "Room #": 9,
+      "Roomname": "Gretchen",
+	  "Room Type": "D",
+	  "Beds": 3
     },
 	{
-      "id": 10,
-      "name": "Bernard",
-	  "type": "S",
-	  "bed": 5
+      "Room #": 10,
+      "Roomname": "Bernard",
+	  "Room Type": "S",
+	  "Beds": 5
     },
 	{
-      "id": 11,
-      "name": "Dacey",
-	  "type": "D",
-	  "bed": 2
+      "Room #": 11,
+      "Roomname": "Dacey",
+	  "Room Type": "D",
+	  "Beds": 2
     },
 	{
-      "id": 12,
-      "name": "Preston",
-	  "type": "D",
-	  "bed": 2
+      "Room #": 12,
+      "Roomname": "Preston",
+	  "Room Type": "D",
+	  "Beds": 2
     },
 	{
-      "id": 10,
-      "name": "Dane",
-	  "type": "S",
-	  "bed": 4
+      "Room #": 10,
+      "Roomname": "Dane",
+	  "Room Type": "S",
+	  "Beds": 4
     },
 	{
-      "id": 14,
-      "name": "Cole",
-	  "type": "S",
-	  "bed": 1
+      "Room #": 14,
+      "Roomname": "Cole",
+	  "Room Type": "S",
+	  "Beds": 1
     }
   ]
 }
